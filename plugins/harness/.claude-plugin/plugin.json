@@ -1,0 +1,18 @@
+{
+  "name": "harness",
+  "version": "1.0.0",
+  "description": "Minimal four-agent pipeline (lead → builder → reviewer → verifier) built from native Claude Code primitives. Enforces plan-before-code, writer/reviewer separation, and evidence-based verification.",
+  "author": {
+    "name": "Dobeu-tech-eco",
+    "url": "https://github.com/Dobeu-tech-eco/plugin-claudeharness"
+  },
+  "repository": "https://github.com/Dobeu-tech-eco/plugin-claudeharness",
+  "license": "MIT",
+  "keywords": [
+    "harness",
+    "pipeline",
+    "multi-agent",
+    "code-review",
+    "verification"
+  ]
+}

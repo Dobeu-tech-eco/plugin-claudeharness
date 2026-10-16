@@ -1,0 +1,14 @@
+{
+  "name": "harness",
+  "description": "Minimal four-agent pipeline (lead, builder, reviewer, verifier) built from native Claude Code primitives.",
+  "owner": {
+    "name": "Dobeu-tech-eco"
+  },
+  "plugins": [
+    {
+      "name": "harness",
+      "source": "./plugins/harness",
+      "description": "Four-agent pipeline enforcing plan-before-code, writer/reviewer separation, and evidence-based verification."
+    }
+  ]
+}
